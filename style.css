@@ -1,0 +1,129 @@
+body, h1, h2, h3, ul, p {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #35424a;
+    border-bottom: 5px solid coral;
+}
+
+.header h1 {
+    padding: 25px 0px;
+    color: #fff;
+    display: inline-block;
+    font-family: sans-serif;
+}
+
+.logo{
+    color: coral;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+}
+
+
+.navbar {
+    float: right;
+}
+
+.navbar li {
+    display: inline;
+}
+
+.navbar li a {
+    text-decoration: none;
+    color: #fff;
+    font-family: sans-serif;
+padding: 30px 15px;
+display: inline-block;
+}
+
+
+.navbar li a :hover {
+    color: coral;
+}
+
+
+.banner {
+    height: 12
+    0vh;
+    background-image: url(12.jpg);
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: #fff;
+    font-family: sans-serif;
+    }
+
+    .banner h1 {
+        font-size: 36;
+        margin-bottom: 25px;
+        margin-bottom: 25px;
+        padding-top: 70px;
+    }
+    
+    .newsletter {
+        background-color: #35424a;
+    color: #fff;
+    display: inline-block;
+    font-family: sans-serif;
+    width: 100%;
+    padding: 30px 0;
+    }
+    
+    .newsletter .right {
+        float: right;
+    }
+    
+    .newwsletter input {
+        padding: 10px;
+    }
+    
+    .button {
+        padding: 7px 12px;
+    border: none;
+    background-color: coral;
+    color: #fff;
+    margin-left: 12px;
+    }
+    
+    .courses {
+        padding: 20px 0;
+    }
+    
+    .box {
+        width: 33.3%;
+        font-family: sans-serif;
+        float: left;
+        text-align: center;
+    }
+    
+    .box img {
+        max-width: 100%;
+        width: 100px;
+    }
+    
+    .clr {
+        clear: both;
+    }
+    
+    #footer {
+        padding: 40px 0;
+    text-align: center;
+    background-color: #35424a;
+    color: #fff;
+    margin-top: 40px;
+    }
+    
+    
+    
+    
+    
+    
+
+
+
+
